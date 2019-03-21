@@ -10,3 +10,4 @@ a personal configuration of my workstation
 - feh
 - gnome-screenshot
 - polybar
+- dmenu
